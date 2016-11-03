@@ -7,9 +7,9 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="proyectoDia\Core\MainWindowLogic.cs">
     <Files>
       <File FileName="proyectoDia\Program.cs" Line="10" Column="38" />
-      <File FileName="proyectoDia\Ui\MainWindowView.cs" Line="100" Column="4" />
-      <File FileName="proyectoDia\Core\MainWindowLogic.cs" Line="50" Column="24" />
-      <File FileName="proyectoDia\Core\Medidas.cs" Line="40" Column="4" />
+      <File FileName="proyectoDia\Ui\MainWindowView.cs" Line="79" Column="4" />
+      <File FileName="proyectoDia\Core\MainWindowLogic.cs" Line="91" Column="17" />
+      <File FileName="proyectoDia\Core\Medidas.cs" Line="10" Column="34" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.proyectoDia PreferredExecutionTarget="MonoDevelop.Default" />

@@ -69,6 +69,7 @@ namespace proyectoDia
 
 		private void ListToModel()
 		{
+			modelMedidas.Clear();
 			foreach (var i in ListMedidas)
 			{
 				modelMedidas.AppendValues(i.Peso.ToString(), i.Cadera.ToString(), i.Fecha.ToString());
@@ -77,18 +78,18 @@ namespace proyectoDia
 
 		private void pesoNameCell_Edited(object o, Gtk.EditedArgs e)
 		{
-			var cosa = new Gtk.TreePath(e.Path);
-			var i = cosa.Indices[0];
-			ListMedidas[i].Peso = Convert.ToInt16(e.NewText);
+			var dir = new Gtk.TreePath(e.Path);
+			var index = dir.Indices[0];
+			ListMedidas[index].Peso = Convert.ToInt16(e.NewText);
+			ListToModel();
 		}
 
 		private void caderaNameCell_Edited(object o, Gtk.EditedArgs e)
 		{
-			Gtk.TreeIter iter;
-			if (modelMedidas.GetIter(out iter, new Gtk.TreePath(e.Path)))
-			{
-				modelMedidas.SetValue(iter, 1, e.NewText);
-			}
+			var dir = new Gtk.TreePath(e.Path);
+			var index = dir.Indices[0];
+			ListMedidas[index].Peso = Convert.ToInt16(e.NewText);
+			ListToModel();
 		}
 
 
