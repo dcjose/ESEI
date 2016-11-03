@@ -1,0 +1,15 @@
+D:\Xamarin Studio Projects\proyectoDia\proyectoDia\obj\x86\Debug\proyectoDia.csprojResolveAssemblyReference.cache
+D:\Xamarin Studio Projects\proyectoDia\proyectoDia\bin\Debug\proyectoDia.exe
+D:\Xamarin Studio Projects\proyectoDia\proyectoDia\bin\Debug\proyectoDia.pdb
+D:\Xamarin Studio Projects\proyectoDia\proyectoDia\bin\Debug\atk-sharp.dll
+D:\Xamarin Studio Projects\proyectoDia\proyectoDia\bin\Debug\gdk-sharp.dll
+D:\Xamarin Studio Projects\proyectoDia\proyectoDia\bin\Debug\glib-sharp.dll
+D:\Xamarin Studio Projects\proyectoDia\proyectoDia\bin\Debug\gtk-sharp.dll
+D:\Xamarin Studio Projects\proyectoDia\proyectoDia\bin\Debug\Mono.Cairo.dll
+D:\Xamarin Studio Projects\proyectoDia\proyectoDia\bin\Debug\pango-sharp.dll
+D:\Xamarin Studio Projects\proyectoDia\proyectoDia\bin\Debug\atk-sharp.pdb
+D:\Xamarin Studio Projects\proyectoDia\proyectoDia\bin\Debug\gdk-sharp.pdb
+D:\Xamarin Studio Projects\proyectoDia\proyectoDia\bin\Debug\glib-sharp.pdb
+D:\Xamarin Studio Projects\proyectoDia\proyectoDia\bin\Debug\pango-sharp.pdb
+D:\Xamarin Studio Projects\proyectoDia\proyectoDia\obj\x86\Debug\proyectoDia.exe
+D:\Xamarin Studio Projects\proyectoDia\proyectoDia\obj\x86\Debug\proyectoDia.pdb

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{0F8DCDDD-372F-42CC-B593-1C5E63A4786D}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="proyectoDia\Core\MainWindowLogic.cs">
+    <Files>
+      <File FileName="proyectoDia\Program.cs" Line="10" Column="38" />
+      <File FileName="proyectoDia\Ui\MainWindowView.cs" Line="100" Column="4" />
+      <File FileName="proyectoDia\Core\MainWindowLogic.cs" Line="50" Column="24" />
+      <File FileName="proyectoDia\Core\Medidas.cs" Line="40" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.proyectoDia PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

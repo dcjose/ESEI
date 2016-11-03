@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Medidas>
+  <Medida Peso="10" Cadera="10" Fecha="2016-11-02T23:50:44.8737188+01:00" />
+  <Medida Peso="20" Cadera="20" Fecha="2016-11-02T23:54:01.8469333+01:00" />
+  <Medida Peso="30" Cadera="30" Fecha="2016-11-03T00:51:37.9240424+01:00" />
+  <Medida Peso="4015" Cadera="40" Fecha="2016-11-03T02:09:06.0579187+01:00" />
+  <Medida Peso="9" Cadera="40" Fecha="2016-11-03T02:10:40.9448492+01:00" />
+</Medidas>
