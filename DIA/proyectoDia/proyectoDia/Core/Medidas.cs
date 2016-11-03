@@ -30,13 +30,13 @@ namespace proyectoDia
 		public short Cadera
 		{
 			get { return cadera; }
-			private set { cadera = value; }
+			set { cadera = value; }
 		}
 
 		public DateTime Fecha
 		{
 			get { return fecha; }
-			private set { fecha = value; }
+			set { fecha = value; }
 		}
 
 		public override string ToString()

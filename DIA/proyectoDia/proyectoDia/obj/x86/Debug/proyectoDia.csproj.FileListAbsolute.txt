@@ -13,3 +13,18 @@ D:\Xamarin Studio Projects\proyectoDia\proyectoDia\bin\Debug\glib-sharp.pdb
 D:\Xamarin Studio Projects\proyectoDia\proyectoDia\bin\Debug\pango-sharp.pdb
 D:\Xamarin Studio Projects\proyectoDia\proyectoDia\obj\x86\Debug\proyectoDia.exe
 D:\Xamarin Studio Projects\proyectoDia\proyectoDia\obj\x86\Debug\proyectoDia.pdb
+C:\Users\diego\Documents\GitHub\ESEI\DIA\proyectoDia\proyectoDia\bin\Debug\proyectoDia.exe
+C:\Users\diego\Documents\GitHub\ESEI\DIA\proyectoDia\proyectoDia\bin\Debug\proyectoDia.pdb
+C:\Users\diego\Documents\GitHub\ESEI\DIA\proyectoDia\proyectoDia\bin\Debug\atk-sharp.dll
+C:\Users\diego\Documents\GitHub\ESEI\DIA\proyectoDia\proyectoDia\bin\Debug\gdk-sharp.dll
+C:\Users\diego\Documents\GitHub\ESEI\DIA\proyectoDia\proyectoDia\bin\Debug\glib-sharp.dll
+C:\Users\diego\Documents\GitHub\ESEI\DIA\proyectoDia\proyectoDia\bin\Debug\gtk-sharp.dll
+C:\Users\diego\Documents\GitHub\ESEI\DIA\proyectoDia\proyectoDia\bin\Debug\Mono.Cairo.dll
+C:\Users\diego\Documents\GitHub\ESEI\DIA\proyectoDia\proyectoDia\bin\Debug\pango-sharp.dll
+C:\Users\diego\Documents\GitHub\ESEI\DIA\proyectoDia\proyectoDia\bin\Debug\atk-sharp.pdb
+C:\Users\diego\Documents\GitHub\ESEI\DIA\proyectoDia\proyectoDia\bin\Debug\gdk-sharp.pdb
+C:\Users\diego\Documents\GitHub\ESEI\DIA\proyectoDia\proyectoDia\bin\Debug\glib-sharp.pdb
+C:\Users\diego\Documents\GitHub\ESEI\DIA\proyectoDia\proyectoDia\bin\Debug\pango-sharp.pdb
+C:\Users\diego\Documents\GitHub\ESEI\DIA\proyectoDia\proyectoDia\obj\x86\Debug\proyectoDia.csprojResolveAssemblyReference.cache
+C:\Users\diego\Documents\GitHub\ESEI\DIA\proyectoDia\proyectoDia\obj\x86\Debug\proyectoDia.exe
+C:\Users\diego\Documents\GitHub\ESEI\DIA\proyectoDia\proyectoDia\obj\x86\Debug\proyectoDia.pdb

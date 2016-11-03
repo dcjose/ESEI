@@ -88,7 +88,7 @@ namespace proyectoDia
 		{
 			var dir = new Gtk.TreePath(e.Path);
 			var index = dir.Indices[0];
-			ListMedidas[index].Peso = Convert.ToInt16(e.NewText);
+			ListMedidas[index].Cadera = Convert.ToInt16(e.NewText);
 			ListToModel();
 		}
 
